@@ -16,3 +16,14 @@ Python, Pandas, NumPy, Matplotlib
 At T-Mobile, anomaly detection logic of this type flagged a recurring data pipeline issue that was misreporting ~$180K in quarterly revenue across a sales region.
 
 ## Run
+## 📊 Sample Output
+
+### Anomaly Detection Visualization
+![Anomaly Detection](anomaly_detection_output.png)
+
+---
+
+### 📁 Output Data
+Flagged anomalies are stored in:
+- `flagged_anomalies.csv`
+``
